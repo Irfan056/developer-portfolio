@@ -67,6 +67,7 @@ half-width{
     border-image:linear-gradient(blue, rgb(186, 228, 228));
     border-image-slice: 1;
 }
-footer p{
+footer p {
     text-align: center;
+}
 }
